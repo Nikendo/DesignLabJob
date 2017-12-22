@@ -1,0 +1,18 @@
+.contact-table th{
+    text-align: left;
+    color: deepskyblue;
+}
+
+.contact-table a:active, a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+.contact-table a:hover{
+    text-decoration: none;
+    color: coral;
+}
+
+.table{
+    border-spacing: 40px;
+}
