@@ -3,12 +3,13 @@
     color: deepskyblue;
 }
 
-.contact-table a:active, a:visited{
+
+#TuGis{
     text-decoration: none;
     color: white;
 }
 
-.contact-table a:hover{
+#TuGis:hover{
     text-decoration: none;
     color: coral;
 }
